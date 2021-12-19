@@ -1,0 +1,24 @@
+.post-textarea {
+    width: 716px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #48535B;
+    border: 1px solid #E5E9EB;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 10px 16px;
+    position: relative;
+}
+.post-delete-btn {
+    position: absolute;
+    top: -3px;
+    right: 8px;
+    border: none;
+    background-color: transparent;
+    font-size: 22px;
+    font-weight: 900;
+
+}
